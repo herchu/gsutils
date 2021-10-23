@@ -1,0 +1,771 @@
+ # Vestimenta RGB 64 colores
+name: RGB
+rules:
+  - image: pix000.png
+    when:
+      black: 0
+      red: 0
+      green: 0
+      blue: 0
+  - image: pix000.png
+    when:
+      black: 1
+      red: 0
+      green: 0
+      blue: 0
+  - image: pix001.png
+    when:
+      black: 0
+      red: 0
+      green: 0
+      blue: 1
+  - image: pix001.png
+    when:
+      black: 1
+      red: 0
+      green: 0
+      blue: 1
+  - image: pix002.png
+    when:
+      black: 0
+      red: 0
+      green: 0
+      blue: 2
+  - image: pix002.png
+    when:
+      black: 1
+      red: 0
+      green: 0
+      blue: 2
+  - image: pix003.png
+    when:
+      black: 0
+      red: 0
+      green: 0
+      blue: 3
+  - image: pix003.png
+    when:
+      black: 1
+      red: 0
+      green: 0
+      blue: 3
+  - image: pix010.png
+    when:
+      black: 0
+      red: 0
+      green: 1
+      blue: 0
+  - image: pix010.png
+    when:
+      black: 1
+      red: 0
+      green: 1
+      blue: 0
+  - image: pix011.png
+    when:
+      black: 0
+      red: 0
+      green: 1
+      blue: 1
+  - image: pix011.png
+    when:
+      black: 1
+      red: 0
+      green: 1
+      blue: 1
+  - image: pix012.png
+    when:
+      black: 0
+      red: 0
+      green: 1
+      blue: 2
+  - image: pix012.png
+    when:
+      black: 1
+      red: 0
+      green: 1
+      blue: 2
+  - image: pix013.png
+    when:
+      black: 0
+      red: 0
+      green: 1
+      blue: 3
+  - image: pix013.png
+    when:
+      black: 1
+      red: 0
+      green: 1
+      blue: 3
+  - image: pix020.png
+    when:
+      black: 0
+      red: 0
+      green: 2
+      blue: 0
+  - image: pix020.png
+    when:
+      black: 1
+      red: 0
+      green: 2
+      blue: 0
+  - image: pix021.png
+    when:
+      black: 0
+      red: 0
+      green: 2
+      blue: 1
+  - image: pix021.png
+    when:
+      black: 1
+      red: 0
+      green: 2
+      blue: 1
+  - image: pix022.png
+    when:
+      black: 0
+      red: 0
+      green: 2
+      blue: 2
+  - image: pix022.png
+    when:
+      black: 1
+      red: 0
+      green: 2
+      blue: 2
+  - image: pix023.png
+    when:
+      black: 0
+      red: 0
+      green: 2
+      blue: 3
+  - image: pix023.png
+    when:
+      black: 1
+      red: 0
+      green: 2
+      blue: 3
+  - image: pix030.png
+    when:
+      black: 0
+      red: 0
+      green: 3
+      blue: 0
+  - image: pix030.png
+    when:
+      black: 1
+      red: 0
+      green: 3
+      blue: 0
+  - image: pix031.png
+    when:
+      black: 0
+      red: 0
+      green: 3
+      blue: 1
+  - image: pix031.png
+    when:
+      black: 1
+      red: 0
+      green: 3
+      blue: 1
+  - image: pix032.png
+    when:
+      black: 0
+      red: 0
+      green: 3
+      blue: 2
+  - image: pix032.png
+    when:
+      black: 1
+      red: 0
+      green: 3
+      blue: 2
+  - image: pix033.png
+    when:
+      black: 0
+      red: 0
+      green: 3
+      blue: 3
+  - image: pix033.png
+    when:
+      black: 1
+      red: 0
+      green: 3
+      blue: 3
+  - image: pix100.png
+    when:
+      black: 0
+      red: 1
+      green: 0
+      blue: 0
+  - image: pix100.png
+    when:
+      black: 1
+      red: 1
+      green: 0
+      blue: 0
+  - image: pix101.png
+    when:
+      black: 0
+      red: 1
+      green: 0
+      blue: 1
+  - image: pix101.png
+    when:
+      black: 1
+      red: 1
+      green: 0
+      blue: 1
+  - image: pix102.png
+    when:
+      black: 0
+      red: 1
+      green: 0
+      blue: 2
+  - image: pix102.png
+    when:
+      black: 1
+      red: 1
+      green: 0
+      blue: 2
+  - image: pix103.png
+    when:
+      black: 0
+      red: 1
+      green: 0
+      blue: 3
+  - image: pix103.png
+    when:
+      black: 1
+      red: 1
+      green: 0
+      blue: 3
+  - image: pix110.png
+    when:
+      black: 0
+      red: 1
+      green: 1
+      blue: 0
+  - image: pix110.png
+    when:
+      black: 1
+      red: 1
+      green: 1
+      blue: 0
+  - image: pix111.png
+    when:
+      black: 0
+      red: 1
+      green: 1
+      blue: 1
+  - image: pix111.png
+    when:
+      black: 1
+      red: 1
+      green: 1
+      blue: 1
+  - image: pix112.png
+    when:
+      black: 0
+      red: 1
+      green: 1
+      blue: 2
+  - image: pix112.png
+    when:
+      black: 1
+      red: 1
+      green: 1
+      blue: 2
+  - image: pix113.png
+    when:
+      black: 0
+      red: 1
+      green: 1
+      blue: 3
+  - image: pix113.png
+    when:
+      black: 1
+      red: 1
+      green: 1
+      blue: 3
+  - image: pix120.png
+    when:
+      black: 0
+      red: 1
+      green: 2
+      blue: 0
+  - image: pix120.png
+    when:
+      black: 1
+      red: 1
+      green: 2
+      blue: 0
+  - image: pix121.png
+    when:
+      black: 0
+      red: 1
+      green: 2
+      blue: 1
+  - image: pix121.png
+    when:
+      black: 1
+      red: 1
+      green: 2
+      blue: 1
+  - image: pix122.png
+    when:
+      black: 0
+      red: 1
+      green: 2
+      blue: 2
+  - image: pix122.png
+    when:
+      black: 1
+      red: 1
+      green: 2
+      blue: 2
+  - image: pix123.png
+    when:
+      black: 0
+      red: 1
+      green: 2
+      blue: 3
+  - image: pix123.png
+    when:
+      black: 1
+      red: 1
+      green: 2
+      blue: 3
+  - image: pix130.png
+    when:
+      black: 0
+      red: 1
+      green: 3
+      blue: 0
+  - image: pix130.png
+    when:
+      black: 1
+      red: 1
+      green: 3
+      blue: 0
+  - image: pix131.png
+    when:
+      black: 0
+      red: 1
+      green: 3
+      blue: 1
+  - image: pix131.png
+    when:
+      black: 1
+      red: 1
+      green: 3
+      blue: 1
+  - image: pix132.png
+    when:
+      black: 0
+      red: 1
+      green: 3
+      blue: 2
+  - image: pix132.png
+    when:
+      black: 1
+      red: 1
+      green: 3
+      blue: 2
+  - image: pix133.png
+    when:
+      black: 0
+      red: 1
+      green: 3
+      blue: 3
+  - image: pix133.png
+    when:
+      black: 1
+      red: 1
+      green: 3
+      blue: 3
+  - image: pix200.png
+    when:
+      black: 0
+      red: 2
+      green: 0
+      blue: 0
+  - image: pix200.png
+    when:
+      black: 1
+      red: 2
+      green: 0
+      blue: 0
+  - image: pix201.png
+    when:
+      black: 0
+      red: 2
+      green: 0
+      blue: 1
+  - image: pix201.png
+    when:
+      black: 1
+      red: 2
+      green: 0
+      blue: 1
+  - image: pix202.png
+    when:
+      black: 0
+      red: 2
+      green: 0
+      blue: 2
+  - image: pix202.png
+    when:
+      black: 1
+      red: 2
+      green: 0
+      blue: 2
+  - image: pix203.png
+    when:
+      black: 0
+      red: 2
+      green: 0
+      blue: 3
+  - image: pix203.png
+    when:
+      black: 1
+      red: 2
+      green: 0
+      blue: 3
+  - image: pix210.png
+    when:
+      black: 0
+      red: 2
+      green: 1
+      blue: 0
+  - image: pix210.png
+    when:
+      black: 1
+      red: 2
+      green: 1
+      blue: 0
+  - image: pix211.png
+    when:
+      black: 0
+      red: 2
+      green: 1
+      blue: 1
+  - image: pix211.png
+    when:
+      black: 1
+      red: 2
+      green: 1
+      blue: 1
+  - image: pix212.png
+    when:
+      black: 0
+      red: 2
+      green: 1
+      blue: 2
+  - image: pix212.png
+    when:
+      black: 1
+      red: 2
+      green: 1
+      blue: 2
+  - image: pix213.png
+    when:
+      black: 0
+      red: 2
+      green: 1
+      blue: 3
+  - image: pix213.png
+    when:
+      black: 1
+      red: 2
+      green: 1
+      blue: 3
+  - image: pix220.png
+    when:
+      black: 0
+      red: 2
+      green: 2
+      blue: 0
+  - image: pix220.png
+    when:
+      black: 1
+      red: 2
+      green: 2
+      blue: 0
+  - image: pix221.png
+    when:
+      black: 0
+      red: 2
+      green: 2
+      blue: 1
+  - image: pix221.png
+    when:
+      black: 1
+      red: 2
+      green: 2
+      blue: 1
+  - image: pix222.png
+    when:
+      black: 0
+      red: 2
+      green: 2
+      blue: 2
+  - image: pix222.png
+    when:
+      black: 1
+      red: 2
+      green: 2
+      blue: 2
+  - image: pix223.png
+    when:
+      black: 0
+      red: 2
+      green: 2
+      blue: 3
+  - image: pix223.png
+    when:
+      black: 1
+      red: 2
+      green: 2
+      blue: 3
+  - image: pix230.png
+    when:
+      black: 0
+      red: 2
+      green: 3
+      blue: 0
+  - image: pix230.png
+    when:
+      black: 1
+      red: 2
+      green: 3
+      blue: 0
+  - image: pix231.png
+    when:
+      black: 0
+      red: 2
+      green: 3
+      blue: 1
+  - image: pix231.png
+    when:
+      black: 1
+      red: 2
+      green: 3
+      blue: 1
+  - image: pix232.png
+    when:
+      black: 0
+      red: 2
+      green: 3
+      blue: 2
+  - image: pix232.png
+    when:
+      black: 1
+      red: 2
+      green: 3
+      blue: 2
+  - image: pix233.png
+    when:
+      black: 0
+      red: 2
+      green: 3
+      blue: 3
+  - image: pix233.png
+    when:
+      black: 1
+      red: 2
+      green: 3
+      blue: 3
+  - image: pix300.png
+    when:
+      black: 0
+      red: 3
+      green: 0
+      blue: 0
+  - image: pix300.png
+    when:
+      black: 1
+      red: 3
+      green: 0
+      blue: 0
+  - image: pix301.png
+    when:
+      black: 0
+      red: 3
+      green: 0
+      blue: 1
+  - image: pix301.png
+    when:
+      black: 1
+      red: 3
+      green: 0
+      blue: 1
+  - image: pix302.png
+    when:
+      black: 0
+      red: 3
+      green: 0
+      blue: 2
+  - image: pix302.png
+    when:
+      black: 1
+      red: 3
+      green: 0
+      blue: 2
+  - image: pix303.png
+    when:
+      black: 0
+      red: 3
+      green: 0
+      blue: 3
+  - image: pix303.png
+    when:
+      black: 1
+      red: 3
+      green: 0
+      blue: 3
+  - image: pix310.png
+    when:
+      black: 0
+      red: 3
+      green: 1
+      blue: 0
+  - image: pix310.png
+    when:
+      black: 1
+      red: 3
+      green: 1
+      blue: 0
+  - image: pix311.png
+    when:
+      black: 0
+      red: 3
+      green: 1
+      blue: 1
+  - image: pix311.png
+    when:
+      black: 1
+      red: 3
+      green: 1
+      blue: 1
+  - image: pix312.png
+    when:
+      black: 0
+      red: 3
+      green: 1
+      blue: 2
+  - image: pix312.png
+    when:
+      black: 1
+      red: 3
+      green: 1
+      blue: 2
+  - image: pix313.png
+    when:
+      black: 0
+      red: 3
+      green: 1
+      blue: 3
+  - image: pix313.png
+    when:
+      black: 1
+      red: 3
+      green: 1
+      blue: 3
+  - image: pix320.png
+    when:
+      black: 0
+      red: 3
+      green: 2
+      blue: 0
+  - image: pix320.png
+    when:
+      black: 1
+      red: 3
+      green: 2
+      blue: 0
+  - image: pix321.png
+    when:
+      black: 0
+      red: 3
+      green: 2
+      blue: 1
+  - image: pix321.png
+    when:
+      black: 1
+      red: 3
+      green: 2
+      blue: 1
+  - image: pix322.png
+    when:
+      black: 0
+      red: 3
+      green: 2
+      blue: 2
+  - image: pix322.png
+    when:
+      black: 1
+      red: 3
+      green: 2
+      blue: 2
+  - image: pix323.png
+    when:
+      black: 0
+      red: 3
+      green: 2
+      blue: 3
+  - image: pix323.png
+    when:
+      black: 1
+      red: 3
+      green: 2
+      blue: 3
+  - image: pix330.png
+    when:
+      black: 0
+      red: 3
+      green: 3
+      blue: 0
+  - image: pix330.png
+    when:
+      black: 1
+      red: 3
+      green: 3
+      blue: 0
+  - image: pix331.png
+    when:
+      black: 0
+      red: 3
+      green: 3
+      blue: 1
+  - image: pix331.png
+    when:
+      black: 1
+      red: 3
+      green: 3
+      blue: 1
+  - image: pix332.png
+    when:
+      black: 0
+      red: 3
+      green: 3
+      blue: 2
+  - image: pix332.png
+    when:
+      black: 1
+      red: 3
+      green: 3
+      blue: 2
+  - image: pix333.png
+    when:
+      black: 0
+      red: 3
+      green: 3
+      blue: 3
+  - image: pix333.png
+    when:
+      black: 1
+      red: 3
+      green: 3
+      blue: 3
