@@ -19,7 +19,7 @@ execution_speed:
     can_change_speed: true
   active: instantaneous
 attire:
-  visible: false
+  visible: true
   user_permissions:
     can_toggle_visibility: true
   active: RGB

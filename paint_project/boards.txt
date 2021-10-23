@@ -1,1 +1,5 @@
 imgs/impostor.jpg
+imgs/dragon.png
+imgs/pacman2.png
+imgs/Super_Paper_Mario_icon.png
+imgs/black.png

@@ -14,13 +14,14 @@ while read IMG; do
   echo "Creando tablero Board$B.gbb de imagen $IMG..."
   BOARD=$DIR/assets/boards/Board$B.gbb
   $IMG_TOOL $IMG $BOARD
-  ((i=i+1))
+  ((B=B+1))
 done <boards.txt
 
 echo "Copiando vestimenta"
 SKIN_DIR=$DIR/attires/RGB
 mkdir -p $SKIN_DIR
 pushd $SKIN_DIR
+rm *.png *.yml
 unzip ../../../$SKIN_FILE
 popd
 
