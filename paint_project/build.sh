@@ -7,7 +7,7 @@
 PRJ=Paint.gbp
 DIR=contents
 IMG_TOOL="python ../img2board/img2board.py"
-SKIN_FILE=rgb64_v1.zip
+SKIN_FILE=rgb64_v2.zip
 
 B=1
 while read IMG; do

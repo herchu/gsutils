@@ -13,6 +13,12 @@ rules:
       red: 0
       green: 0
       blue: 0
+  - image: sel000.png
+    when:
+      black: 2
+      red: 0
+      green: 0
+      blue: 0
   - image: pix001.png
     when:
       black: 0
@@ -22,6 +28,12 @@ rules:
   - image: pix001.png
     when:
       black: 1
+      red: 0
+      green: 0
+      blue: 1
+  - image: sel001.png
+    when:
+      black: 2
       red: 0
       green: 0
       blue: 1
@@ -37,6 +49,12 @@ rules:
       red: 0
       green: 0
       blue: 2
+  - image: sel002.png
+    when:
+      black: 2
+      red: 0
+      green: 0
+      blue: 2
   - image: pix003.png
     when:
       black: 0
@@ -46,6 +64,12 @@ rules:
   - image: pix003.png
     when:
       black: 1
+      red: 0
+      green: 0
+      blue: 3
+  - image: sel003.png
+    when:
+      black: 2
       red: 0
       green: 0
       blue: 3
@@ -61,6 +85,12 @@ rules:
       red: 0
       green: 1
       blue: 0
+  - image: sel010.png
+    when:
+      black: 2
+      red: 0
+      green: 1
+      blue: 0
   - image: pix011.png
     when:
       black: 0
@@ -70,6 +100,12 @@ rules:
   - image: pix011.png
     when:
       black: 1
+      red: 0
+      green: 1
+      blue: 1
+  - image: sel011.png
+    when:
+      black: 2
       red: 0
       green: 1
       blue: 1
@@ -85,6 +121,12 @@ rules:
       red: 0
       green: 1
       blue: 2
+  - image: sel012.png
+    when:
+      black: 2
+      red: 0
+      green: 1
+      blue: 2
   - image: pix013.png
     when:
       black: 0
@@ -94,6 +136,12 @@ rules:
   - image: pix013.png
     when:
       black: 1
+      red: 0
+      green: 1
+      blue: 3
+  - image: sel013.png
+    when:
+      black: 2
       red: 0
       green: 1
       blue: 3
@@ -109,6 +157,12 @@ rules:
       red: 0
       green: 2
       blue: 0
+  - image: sel020.png
+    when:
+      black: 2
+      red: 0
+      green: 2
+      blue: 0
   - image: pix021.png
     when:
       black: 0
@@ -118,6 +172,12 @@ rules:
   - image: pix021.png
     when:
       black: 1
+      red: 0
+      green: 2
+      blue: 1
+  - image: sel021.png
+    when:
+      black: 2
       red: 0
       green: 2
       blue: 1
@@ -133,6 +193,12 @@ rules:
       red: 0
       green: 2
       blue: 2
+  - image: sel022.png
+    when:
+      black: 2
+      red: 0
+      green: 2
+      blue: 2
   - image: pix023.png
     when:
       black: 0
@@ -142,6 +208,12 @@ rules:
   - image: pix023.png
     when:
       black: 1
+      red: 0
+      green: 2
+      blue: 3
+  - image: sel023.png
+    when:
+      black: 2
       red: 0
       green: 2
       blue: 3
@@ -157,6 +229,12 @@ rules:
       red: 0
       green: 3
       blue: 0
+  - image: sel030.png
+    when:
+      black: 2
+      red: 0
+      green: 3
+      blue: 0
   - image: pix031.png
     when:
       black: 0
@@ -166,6 +244,12 @@ rules:
   - image: pix031.png
     when:
       black: 1
+      red: 0
+      green: 3
+      blue: 1
+  - image: sel031.png
+    when:
+      black: 2
       red: 0
       green: 3
       blue: 1
@@ -181,6 +265,12 @@ rules:
       red: 0
       green: 3
       blue: 2
+  - image: sel032.png
+    when:
+      black: 2
+      red: 0
+      green: 3
+      blue: 2
   - image: pix033.png
     when:
       black: 0
@@ -190,6 +280,12 @@ rules:
   - image: pix033.png
     when:
       black: 1
+      red: 0
+      green: 3
+      blue: 3
+  - image: sel033.png
+    when:
+      black: 2
       red: 0
       green: 3
       blue: 3
@@ -205,6 +301,12 @@ rules:
       red: 1
       green: 0
       blue: 0
+  - image: sel100.png
+    when:
+      black: 2
+      red: 1
+      green: 0
+      blue: 0
   - image: pix101.png
     when:
       black: 0
@@ -214,6 +316,12 @@ rules:
   - image: pix101.png
     when:
       black: 1
+      red: 1
+      green: 0
+      blue: 1
+  - image: sel101.png
+    when:
+      black: 2
       red: 1
       green: 0
       blue: 1
@@ -229,6 +337,12 @@ rules:
       red: 1
       green: 0
       blue: 2
+  - image: sel102.png
+    when:
+      black: 2
+      red: 1
+      green: 0
+      blue: 2
   - image: pix103.png
     when:
       black: 0
@@ -238,6 +352,12 @@ rules:
   - image: pix103.png
     when:
       black: 1
+      red: 1
+      green: 0
+      blue: 3
+  - image: sel103.png
+    when:
+      black: 2
       red: 1
       green: 0
       blue: 3
@@ -253,6 +373,12 @@ rules:
       red: 1
       green: 1
       blue: 0
+  - image: sel110.png
+    when:
+      black: 2
+      red: 1
+      green: 1
+      blue: 0
   - image: pix111.png
     when:
       black: 0
@@ -262,6 +388,12 @@ rules:
   - image: pix111.png
     when:
       black: 1
+      red: 1
+      green: 1
+      blue: 1
+  - image: sel111.png
+    when:
+      black: 2
       red: 1
       green: 1
       blue: 1
@@ -277,6 +409,12 @@ rules:
       red: 1
       green: 1
       blue: 2
+  - image: sel112.png
+    when:
+      black: 2
+      red: 1
+      green: 1
+      blue: 2
   - image: pix113.png
     when:
       black: 0
@@ -286,6 +424,12 @@ rules:
   - image: pix113.png
     when:
       black: 1
+      red: 1
+      green: 1
+      blue: 3
+  - image: sel113.png
+    when:
+      black: 2
       red: 1
       green: 1
       blue: 3
@@ -301,6 +445,12 @@ rules:
       red: 1
       green: 2
       blue: 0
+  - image: sel120.png
+    when:
+      black: 2
+      red: 1
+      green: 2
+      blue: 0
   - image: pix121.png
     when:
       black: 0
@@ -310,6 +460,12 @@ rules:
   - image: pix121.png
     when:
       black: 1
+      red: 1
+      green: 2
+      blue: 1
+  - image: sel121.png
+    when:
+      black: 2
       red: 1
       green: 2
       blue: 1
@@ -325,6 +481,12 @@ rules:
       red: 1
       green: 2
       blue: 2
+  - image: sel122.png
+    when:
+      black: 2
+      red: 1
+      green: 2
+      blue: 2
   - image: pix123.png
     when:
       black: 0
@@ -334,6 +496,12 @@ rules:
   - image: pix123.png
     when:
       black: 1
+      red: 1
+      green: 2
+      blue: 3
+  - image: sel123.png
+    when:
+      black: 2
       red: 1
       green: 2
       blue: 3
@@ -349,6 +517,12 @@ rules:
       red: 1
       green: 3
       blue: 0
+  - image: sel130.png
+    when:
+      black: 2
+      red: 1
+      green: 3
+      blue: 0
   - image: pix131.png
     when:
       black: 0
@@ -358,6 +532,12 @@ rules:
   - image: pix131.png
     when:
       black: 1
+      red: 1
+      green: 3
+      blue: 1
+  - image: sel131.png
+    when:
+      black: 2
       red: 1
       green: 3
       blue: 1
@@ -373,6 +553,12 @@ rules:
       red: 1
       green: 3
       blue: 2
+  - image: sel132.png
+    when:
+      black: 2
+      red: 1
+      green: 3
+      blue: 2
   - image: pix133.png
     when:
       black: 0
@@ -382,6 +568,12 @@ rules:
   - image: pix133.png
     when:
       black: 1
+      red: 1
+      green: 3
+      blue: 3
+  - image: sel133.png
+    when:
+      black: 2
       red: 1
       green: 3
       blue: 3
@@ -397,6 +589,12 @@ rules:
       red: 2
       green: 0
       blue: 0
+  - image: sel200.png
+    when:
+      black: 2
+      red: 2
+      green: 0
+      blue: 0
   - image: pix201.png
     when:
       black: 0
@@ -406,6 +604,12 @@ rules:
   - image: pix201.png
     when:
       black: 1
+      red: 2
+      green: 0
+      blue: 1
+  - image: sel201.png
+    when:
+      black: 2
       red: 2
       green: 0
       blue: 1
@@ -421,6 +625,12 @@ rules:
       red: 2
       green: 0
       blue: 2
+  - image: sel202.png
+    when:
+      black: 2
+      red: 2
+      green: 0
+      blue: 2
   - image: pix203.png
     when:
       black: 0
@@ -430,6 +640,12 @@ rules:
   - image: pix203.png
     when:
       black: 1
+      red: 2
+      green: 0
+      blue: 3
+  - image: sel203.png
+    when:
+      black: 2
       red: 2
       green: 0
       blue: 3
@@ -445,6 +661,12 @@ rules:
       red: 2
       green: 1
       blue: 0
+  - image: sel210.png
+    when:
+      black: 2
+      red: 2
+      green: 1
+      blue: 0
   - image: pix211.png
     when:
       black: 0
@@ -454,6 +676,12 @@ rules:
   - image: pix211.png
     when:
       black: 1
+      red: 2
+      green: 1
+      blue: 1
+  - image: sel211.png
+    when:
+      black: 2
       red: 2
       green: 1
       blue: 1
@@ -469,6 +697,12 @@ rules:
       red: 2
       green: 1
       blue: 2
+  - image: sel212.png
+    when:
+      black: 2
+      red: 2
+      green: 1
+      blue: 2
   - image: pix213.png
     when:
       black: 0
@@ -478,6 +712,12 @@ rules:
   - image: pix213.png
     when:
       black: 1
+      red: 2
+      green: 1
+      blue: 3
+  - image: sel213.png
+    when:
+      black: 2
       red: 2
       green: 1
       blue: 3
@@ -493,6 +733,12 @@ rules:
       red: 2
       green: 2
       blue: 0
+  - image: sel220.png
+    when:
+      black: 2
+      red: 2
+      green: 2
+      blue: 0
   - image: pix221.png
     when:
       black: 0
@@ -502,6 +748,12 @@ rules:
   - image: pix221.png
     when:
       black: 1
+      red: 2
+      green: 2
+      blue: 1
+  - image: sel221.png
+    when:
+      black: 2
       red: 2
       green: 2
       blue: 1
@@ -517,6 +769,12 @@ rules:
       red: 2
       green: 2
       blue: 2
+  - image: sel222.png
+    when:
+      black: 2
+      red: 2
+      green: 2
+      blue: 2
   - image: pix223.png
     when:
       black: 0
@@ -526,6 +784,12 @@ rules:
   - image: pix223.png
     when:
       black: 1
+      red: 2
+      green: 2
+      blue: 3
+  - image: sel223.png
+    when:
+      black: 2
       red: 2
       green: 2
       blue: 3
@@ -541,6 +805,12 @@ rules:
       red: 2
       green: 3
       blue: 0
+  - image: sel230.png
+    when:
+      black: 2
+      red: 2
+      green: 3
+      blue: 0
   - image: pix231.png
     when:
       black: 0
@@ -550,6 +820,12 @@ rules:
   - image: pix231.png
     when:
       black: 1
+      red: 2
+      green: 3
+      blue: 1
+  - image: sel231.png
+    when:
+      black: 2
       red: 2
       green: 3
       blue: 1
@@ -565,6 +841,12 @@ rules:
       red: 2
       green: 3
       blue: 2
+  - image: sel232.png
+    when:
+      black: 2
+      red: 2
+      green: 3
+      blue: 2
   - image: pix233.png
     when:
       black: 0
@@ -574,6 +856,12 @@ rules:
   - image: pix233.png
     when:
       black: 1
+      red: 2
+      green: 3
+      blue: 3
+  - image: sel233.png
+    when:
+      black: 2
       red: 2
       green: 3
       blue: 3
@@ -589,6 +877,12 @@ rules:
       red: 3
       green: 0
       blue: 0
+  - image: sel300.png
+    when:
+      black: 2
+      red: 3
+      green: 0
+      blue: 0
   - image: pix301.png
     when:
       black: 0
@@ -598,6 +892,12 @@ rules:
   - image: pix301.png
     when:
       black: 1
+      red: 3
+      green: 0
+      blue: 1
+  - image: sel301.png
+    when:
+      black: 2
       red: 3
       green: 0
       blue: 1
@@ -613,6 +913,12 @@ rules:
       red: 3
       green: 0
       blue: 2
+  - image: sel302.png
+    when:
+      black: 2
+      red: 3
+      green: 0
+      blue: 2
   - image: pix303.png
     when:
       black: 0
@@ -622,6 +928,12 @@ rules:
   - image: pix303.png
     when:
       black: 1
+      red: 3
+      green: 0
+      blue: 3
+  - image: sel303.png
+    when:
+      black: 2
       red: 3
       green: 0
       blue: 3
@@ -637,6 +949,12 @@ rules:
       red: 3
       green: 1
       blue: 0
+  - image: sel310.png
+    when:
+      black: 2
+      red: 3
+      green: 1
+      blue: 0
   - image: pix311.png
     when:
       black: 0
@@ -646,6 +964,12 @@ rules:
   - image: pix311.png
     when:
       black: 1
+      red: 3
+      green: 1
+      blue: 1
+  - image: sel311.png
+    when:
+      black: 2
       red: 3
       green: 1
       blue: 1
@@ -661,6 +985,12 @@ rules:
       red: 3
       green: 1
       blue: 2
+  - image: sel312.png
+    when:
+      black: 2
+      red: 3
+      green: 1
+      blue: 2
   - image: pix313.png
     when:
       black: 0
@@ -670,6 +1000,12 @@ rules:
   - image: pix313.png
     when:
       black: 1
+      red: 3
+      green: 1
+      blue: 3
+  - image: sel313.png
+    when:
+      black: 2
       red: 3
       green: 1
       blue: 3
@@ -685,6 +1021,12 @@ rules:
       red: 3
       green: 2
       blue: 0
+  - image: sel320.png
+    when:
+      black: 2
+      red: 3
+      green: 2
+      blue: 0
   - image: pix321.png
     when:
       black: 0
@@ -694,6 +1036,12 @@ rules:
   - image: pix321.png
     when:
       black: 1
+      red: 3
+      green: 2
+      blue: 1
+  - image: sel321.png
+    when:
+      black: 2
       red: 3
       green: 2
       blue: 1
@@ -709,6 +1057,12 @@ rules:
       red: 3
       green: 2
       blue: 2
+  - image: sel322.png
+    when:
+      black: 2
+      red: 3
+      green: 2
+      blue: 2
   - image: pix323.png
     when:
       black: 0
@@ -718,6 +1072,12 @@ rules:
   - image: pix323.png
     when:
       black: 1
+      red: 3
+      green: 2
+      blue: 3
+  - image: sel323.png
+    when:
+      black: 2
       red: 3
       green: 2
       blue: 3
@@ -733,6 +1093,12 @@ rules:
       red: 3
       green: 3
       blue: 0
+  - image: sel330.png
+    when:
+      black: 2
+      red: 3
+      green: 3
+      blue: 0
   - image: pix331.png
     when:
       black: 0
@@ -742,6 +1108,12 @@ rules:
   - image: pix331.png
     when:
       black: 1
+      red: 3
+      green: 3
+      blue: 1
+  - image: sel331.png
+    when:
+      black: 2
       red: 3
       green: 3
       blue: 1
@@ -754,6 +1126,12 @@ rules:
   - image: pix332.png
     when:
       black: 1
+      red: 3
+      green: 3
+      blue: 2
+  - image: sel332.png
+    when:
+      black: 2
       red: 3
       green: 3
       blue: 2
@@ -766,6 +1144,12 @@ rules:
   - image: pix333.png
     when:
       black: 1
+      red: 3
+      green: 3
+      blue: 3
+  - image: sel333.png
+    when:
+      black: 2
       red: 3
       green: 3
       blue: 3

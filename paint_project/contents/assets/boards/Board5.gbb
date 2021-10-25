@@ -1,33 +1,356 @@
 GBB/1.0
-size 15 17
-cell 0 15 Negro 1
-cell 1 15 Negro 1
-cell 2 15 Negro 1
-cell 3 15 Negro 1
-cell 4 15 Negro 1
-cell 5 15 Negro 1
-cell 6 15 Negro 1
-cell 7 15 Negro 1
-cell 8 15 Negro 1
-cell 9 15 Negro 1
-cell 10 15 Negro 1
-cell 11 15 Negro 1
-cell 12 15 Negro 1
-cell 13 15 Negro 1
-cell 14 15 Negro 1
-cell 0 16 Negro 1
-cell 1 16 Rojo 3 Negro 1
-cell 2 16 Verde 3 Negro 1
-cell 3 16 Azul 3 Negro 1
-cell 4 16 Rojo 3 Verde 3 Negro 1
-cell 5 16 Rojo 3 Azul 3 Negro 1
-cell 6 16 Verde 3 Azul 3 Negro 1
-cell 7 16 Rojo 2 Negro 1
-cell 8 16 Verde 2 Negro 1
-cell 9 16 Azul 2 Negro 1
-cell 10 16 Rojo 2 Verde 2 Negro 1
-cell 11 16 Rojo 2 Azul 2 Negro 1
-cell 12 16 Verde 2 Azul 2 Negro 1
-cell 13 16 Rojo 1 Negro 1
-cell 14 16 Verde 1 Negro 1
+size 28 30
+cell 0 28 Negro 1
+cell 1 28 Negro 1
+cell 2 28 Negro 1
+cell 3 28 Negro 1
+cell 4 28 Negro 1
+cell 5 28 Negro 1
+cell 6 28 Negro 1
+cell 7 28 Negro 1
+cell 8 28 Negro 1
+cell 9 28 Negro 1
+cell 10 28 Negro 1
+cell 11 28 Negro 1
+cell 12 28 Negro 1
+cell 13 28 Negro 1
+cell 14 28 Negro 1
+cell 15 28 Negro 1
+cell 16 28 Negro 1
+cell 17 28 Negro 1
+cell 18 28 Negro 1
+cell 19 28 Negro 1
+cell 20 28 Negro 1
+cell 21 28 Negro 1
+cell 22 28 Negro 1
+cell 23 28 Negro 1
+cell 24 28 Negro 1
+cell 25 28 Negro 1
+cell 26 28 Negro 1
+cell 27 28 Negro 1
+cell 0 29 Negro 1
+cell 1 29 Rojo 3 Negro 1
+cell 2 29 Verde 3 Negro 1
+cell 3 29 Azul 3 Negro 1
+cell 4 29 Rojo 3 Verde 3 Negro 1
+cell 5 29 Rojo 3 Azul 3 Negro 1
+cell 6 29 Verde 3 Azul 3 Negro 1
+cell 7 29 Rojo 2 Negro 1
+cell 8 29 Verde 2 Negro 1
+cell 9 29 Azul 2 Negro 1
+cell 10 29 Rojo 2 Verde 2 Negro 1
+cell 11 29 Rojo 2 Azul 2 Negro 1
+cell 12 29 Verde 2 Azul 2 Negro 1
+cell 13 29 Rojo 1 Negro 1
+cell 14 29 Verde 1 Negro 1
+cell 15 29 Azul 1 Negro 1
+cell 16 29 Rojo 1 Verde 1 Negro 1
+cell 17 29 Rojo 1 Azul 1 Negro 1
+cell 18 29 Verde 1 Azul 1 Negro 1
+cell 19 29 Negro 1
+cell 20 29 Negro 1
+cell 21 29 Negro 1
+cell 22 29 Negro 1
+cell 23 29 Negro 1
+cell 24 29 Negro 1
+cell 25 29 Negro 1
+cell 26 29 Negro 1
+cell 27 29 Negro 1
+cell 14 27 Rojo 1
+cell 11 26 Rojo 1
+cell 12 26 Rojo 2 Verde 1
+cell 13 26 Rojo 3 Verde 1
+cell 14 26 Rojo 2 Verde 1
+cell 15 26 Rojo 2 Verde 1
+cell 10 25 Rojo 1
+cell 11 25 Rojo 3 Verde 1
+cell 12 25 Rojo 3 Verde 1
+cell 13 25 Rojo 3 Verde 2 Azul 1
+cell 14 25 Rojo 3 Verde 2 Azul 2
+cell 15 25 Rojo 3 Verde 2 Azul 1
+cell 16 25 Rojo 1 Verde 1
+cell 19 25 Rojo 1 Verde 1 Azul 1
+cell 20 25 Rojo 1 Verde 1 Azul 1
+cell 10 24 Rojo 3 Verde 1
+cell 11 24 Rojo 3 Verde 1
+cell 12 24 Rojo 3 Verde 1
+cell 13 24 Rojo 3 Verde 2 Azul 2
+cell 14 24 Rojo 3 Verde 1 Azul 1
+cell 15 24 Rojo 3 Verde 1 Azul 1
+cell 16 24 Rojo 2 Verde 1 Azul 1
+cell 18 24 Rojo 1
+cell 19 24 Rojo 1 Verde 1 Azul 1
+cell 20 24 Rojo 1 Verde 1 Azul 1
+cell 21 24 Rojo 3 Verde 3 Azul 3
+cell 22 24 Rojo 2 Verde 2 Azul 2
+cell 9 23 Rojo 2
+cell 10 23 Rojo 3 Verde 1
+cell 11 23 Rojo 3 Verde 1
+cell 12 23 Rojo 3 Verde 1
+cell 13 23 Rojo 2 Verde 1 Azul 1
+cell 14 23 Rojo 2 Verde 1 Azul 1
+cell 15 23 Rojo 2 Verde 1
+cell 16 23 Rojo 3
+cell 17 23 Rojo 3
+cell 18 23 Rojo 2
+cell 19 23 Rojo 1
+cell 21 23 Rojo 3 Verde 3 Azul 3
+cell 22 23 Rojo 3 Verde 3 Azul 3
+cell 8 22 Rojo 1
+cell 9 22 Rojo 3
+cell 10 22 Rojo 3 Verde 1
+cell 11 22 Rojo 3
+cell 12 22 Rojo 2
+cell 13 22 Rojo 2
+cell 14 22 Rojo 3
+cell 15 22 Rojo 3
+cell 16 22 Rojo 2 Verde 1
+cell 17 22 Rojo 1
+cell 20 22 Rojo 2 Verde 2 Azul 2
+cell 21 22 Rojo 2 Verde 2 Azul 2
+cell 22 22 Rojo 2 Verde 2 Azul 2
+cell 8 21 Rojo 2
+cell 9 21 Rojo 3
+cell 10 21 Rojo 3
+cell 11 21 Rojo 2
+cell 12 21 Rojo 3
+cell 13 21 Rojo 3
+cell 14 21 Rojo 2
+cell 15 21 Rojo 2 Verde 2 Azul 1
+cell 16 21 Rojo 2 Verde 2 Azul 1
+cell 17 21 Rojo 1 Verde 1
+cell 18 21 Rojo 1 Verde 1 Azul 1
+cell 19 21 Rojo 3 Verde 3 Azul 3
+cell 20 21 Rojo 3 Verde 3 Azul 3
+cell 21 21 Rojo 3 Verde 3 Azul 3
+cell 22 21 Rojo 1 Verde 1 Azul 1
+cell 8 20 Rojo 3
+cell 9 20 Rojo 3
+cell 10 20 Rojo 1
+cell 11 20 Rojo 2
+cell 12 20 Rojo 2 Verde 1
+cell 13 20 Rojo 2 Verde 1 Azul 1
+cell 14 20 Rojo 1 Verde 1 Azul 1
+cell 15 20 Rojo 3 Verde 3 Azul 2
+cell 16 20 Rojo 3 Verde 2 Azul 1
+cell 17 20 Rojo 1
+cell 18 20 Rojo 1 Verde 1 Azul 1
+cell 19 20 Rojo 2 Verde 1 Azul 1
+cell 20 20 Rojo 2 Verde 2 Azul 2
+cell 21 20 Rojo 2 Verde 2 Azul 2
+cell 6 19 Rojo 1
+cell 7 19 Rojo 3
+cell 8 19 Rojo 3
+cell 9 19 Rojo 2
+cell 10 19 Rojo 1
+cell 11 19 Rojo 3 Verde 2 Azul 1
+cell 12 19 Rojo 3 Verde 3 Azul 2
+cell 13 19 Rojo 3 Verde 3 Azul 2
+cell 14 19 Rojo 1 Verde 1
+cell 15 19 Rojo 3 Verde 2 Azul 1
+cell 16 19 Rojo 3 Verde 3 Azul 2
+cell 17 19 Rojo 3 Verde 3 Azul 2
+cell 18 19 Rojo 3 Verde 3 Azul 2
+cell 19 19 Rojo 3 Verde 2 Azul 1
+cell 20 19 Rojo 1 Verde 1
+cell 6 18 Rojo 2
+cell 7 18 Rojo 2
+cell 8 18 Rojo 2 Verde 1
+cell 9 18 Rojo 1
+cell 10 18 Rojo 1
+cell 11 18 Rojo 1 Verde 1
+cell 12 18 Rojo 3 Verde 3 Azul 1
+cell 13 18 Rojo 3 Verde 3 Azul 2
+cell 14 18 Rojo 3 Verde 2 Azul 1
+cell 15 18 Rojo 3 Verde 3 Azul 2
+cell 16 18 Rojo 3 Verde 3 Azul 2
+cell 17 18 Rojo 3 Verde 3 Azul 2
+cell 18 18 Rojo 3 Verde 3 Azul 2
+cell 19 18 Rojo 3 Verde 3 Azul 1
+cell 20 18 Rojo 2 Verde 1 Azul 1
+cell 7 17 Rojo 2 Verde 2 Azul 1
+cell 8 17 Rojo 3 Verde 2 Azul 1
+cell 9 17 Rojo 2 Verde 2 Azul 1
+cell 10 17 Rojo 1
+cell 11 17 Rojo 1
+cell 12 17 Rojo 2 Verde 2 Azul 1
+cell 13 17 Rojo 1 Verde 1
+cell 14 17 Rojo 1 Verde 1
+cell 15 17 Rojo 2 Verde 2 Azul 1
+cell 16 17 Rojo 3 Verde 2 Azul 1
+cell 17 17 Rojo 3 Verde 3 Azul 2
+cell 18 17 Rojo 3 Verde 3 Azul 2
+cell 19 17 Rojo 3 Verde 2 Azul 1
+cell 20 17 Rojo 1 Verde 1
+cell 7 16 Rojo 3 Verde 2 Azul 1
+cell 8 16 Rojo 3 Verde 2 Azul 1
+cell 9 16 Rojo 2 Verde 2 Azul 1
+cell 10 16 Rojo 3 Verde 2 Azul 1
+cell 11 16 Rojo 2 Verde 2 Azul 1
+cell 12 16 Rojo 3 Verde 3 Azul 2
+cell 13 16 Rojo 1 Verde 1
+cell 16 16 Rojo 1
+cell 17 16 Rojo 1 Verde 1
+cell 18 16 Rojo 1 Verde 1
+cell 19 16 Rojo 1
+cell 7 15 Rojo 2 Verde 2 Azul 1
+cell 8 15 Rojo 3 Verde 3 Azul 1
+cell 9 15 Rojo 3 Verde 2 Azul 1
+cell 10 15 Rojo 3 Verde 3 Azul 2
+cell 11 15 Rojo 3 Verde 3 Azul 2
+cell 12 15 Rojo 3 Verde 3 Azul 2
+cell 13 15 Rojo 3 Verde 2 Azul 1
+cell 14 15 Rojo 1
+cell 8 14 Rojo 1 Verde 1
+cell 9 14 Rojo 2 Verde 1 Azul 1
+cell 10 14 Rojo 1 Verde 1
+cell 11 14 Rojo 3 Verde 2 Azul 1
+cell 12 14 Rojo 3 Verde 3 Azul 2
+cell 13 14 Rojo 3 Verde 3 Azul 2
+cell 14 14 Rojo 1 Verde 1
+cell 15 14 Rojo 1
+cell 16 14 Rojo 1
+cell 10 13 Rojo 1
+cell 11 13 Rojo 1
+cell 12 13 Rojo 2 Verde 2 Azul 1
+cell 13 13 Rojo 3 Verde 2 Azul 1
+cell 14 13 Rojo 2 Verde 1 Azul 1
+cell 15 13 Rojo 1
+cell 16 13 Rojo 1 Verde 1
+cell 17 13 Rojo 1
+cell 8 12 Rojo 2
+cell 9 12 Rojo 3
+cell 10 12 Rojo 3
+cell 11 12 Rojo 2
+cell 12 12 Rojo 1
+cell 13 12 Verde 1 Azul 1
+cell 14 12 Rojo 1 Verde 1 Azul 1
+cell 15 12 Rojo 1
+cell 6 11 Rojo 2 Verde 2 Azul 2
+cell 7 11 Rojo 2 Verde 2 Azul 2
+cell 8 11 Rojo 2 Verde 1
+cell 9 11 Rojo 2
+cell 10 11 Rojo 2
+cell 11 11 Rojo 3
+cell 12 11 Rojo 3
+cell 13 11 Azul 1
+cell 14 11 Azul 1
+cell 15 11 Rojo 1
+cell 16 11 Azul 1
+cell 17 11 Azul 1
+cell 20 11 Rojo 1
+cell 21 11 Rojo 1
+cell 5 10 Rojo 2 Verde 2 Azul 2
+cell 6 10 Rojo 3 Verde 3 Azul 3
+cell 7 10 Rojo 3 Verde 3 Azul 3
+cell 8 10 Rojo 3 Verde 3 Azul 3
+cell 9 10 Rojo 1
+cell 10 10 Rojo 2
+cell 11 10 Rojo 3
+cell 12 10 Rojo 2
+cell 13 10 Azul 1
+cell 14 10 Rojo 1 Verde 2 Azul 1
+cell 15 10 Rojo 2 Verde 2 Azul 1
+cell 16 10 Verde 1 Azul 2
+cell 17 10 Verde 1 Azul 2
+cell 18 10 Rojo 1 Verde 1
+cell 20 10 Rojo 2
+cell 21 10 Rojo 2 Verde 1
+cell 22 10 Rojo 1
+cell 4 9 Rojo 2 Verde 2 Azul 2
+cell 5 9 Rojo 2 Verde 2 Azul 2
+cell 6 9 Rojo 3 Verde 3 Azul 3
+cell 7 9 Rojo 3 Verde 3 Azul 3
+cell 8 9 Rojo 3 Verde 3 Azul 3
+cell 9 9 Rojo 1 Verde 1 Azul 1
+cell 10 9 Rojo 2
+cell 11 9 Rojo 2
+cell 12 9 Rojo 1 Azul 1
+cell 13 9 Verde 1 Azul 1
+cell 14 9 Rojo 3 Verde 2
+cell 15 9 Rojo 3 Verde 2
+cell 16 9 Verde 1 Azul 1
+cell 17 9 Verde 1 Azul 2
+cell 18 9 Rojo 1 Verde 1
+cell 19 9 Rojo 1
+cell 20 9 Rojo 1
+cell 21 9 Rojo 2
+cell 22 9 Rojo 1 Verde 1
+cell 23 9 Rojo 1 Verde 1 Azul 1
+cell 4 8 Rojo 2 Verde 2 Azul 2
+cell 5 8 Rojo 3 Verde 3 Azul 3
+cell 6 8 Rojo 2 Verde 2 Azul 2
+cell 7 8 Rojo 3 Verde 3 Azul 3
+cell 8 8 Rojo 3 Verde 3 Azul 3
+cell 9 8 Rojo 1 Verde 1 Azul 2
+cell 10 8 Azul 1
+cell 11 8 Azul 2
+cell 12 8 Verde 1 Azul 2
+cell 13 8 Verde 1 Azul 2
+cell 14 8 Rojo 1 Verde 1 Azul 1
+cell 15 8 Rojo 1 Verde 1 Azul 1
+cell 16 8 Verde 1 Azul 2
+cell 17 8 Verde 1 Azul 2
+cell 18 8 Azul 1
+cell 19 8 Rojo 1
+cell 20 8 Rojo 1
+cell 21 8 Rojo 1
+cell 22 8 Rojo 1 Verde 1 Azul 1
+cell 4 7 Rojo 1 Verde 1 Azul 1
+cell 5 7 Rojo 3 Verde 3 Azul 3
+cell 6 7 Rojo 3 Verde 3 Azul 3
+cell 7 7 Rojo 3 Verde 3 Azul 3
+cell 8 7 Rojo 2 Verde 2 Azul 2
+cell 9 7 Rojo 1 Verde 1 Azul 1
+cell 10 7 Azul 1
+cell 11 7 Verde 1 Azul 2
+cell 12 7 Verde 1 Azul 2
+cell 13 7 Verde 1 Azul 2
+cell 14 7 Verde 1 Azul 2
+cell 15 7 Verde 1 Azul 2
+cell 16 7 Verde 1 Azul 2
+cell 17 7 Verde 1 Azul 2
+cell 19 7 Rojo 1
+cell 20 7 Rojo 1
+cell 21 7 Rojo 1
+cell 5 6 Rojo 1 Verde 1 Azul 1
+cell 6 6 Rojo 2 Verde 2 Azul 2
+cell 7 6 Rojo 2 Verde 2 Azul 2
+cell 8 6 Rojo 1
+cell 9 6 Rojo 1
+cell 11 6 Azul 1
+cell 12 6 Azul 2
+cell 13 6 Azul 2
+cell 14 6 Verde 1 Azul 2
+cell 15 6 Verde 1 Azul 2
+cell 16 6 Verde 1 Azul 2
+cell 17 6 Azul 1
+cell 19 6 Rojo 1
+cell 20 6 Rojo 1
+cell 21 6 Rojo 1 Verde 1 Azul 1
+cell 7 5 Rojo 1
+cell 8 5 Rojo 1
+cell 9 5 Rojo 1
+cell 10 5 Rojo 1
+cell 12 5 Azul 1
+cell 13 5 Azul 2
+cell 14 5 Azul 1
+cell 15 5 Azul 1
+cell 6 4 Rojo 1 Verde 1 Azul 1
+cell 7 4 Rojo 1 Verde 1
+cell 8 4 Rojo 1
+cell 9 4 Rojo 1
+cell 10 4 Rojo 1
+cell 6 3 Rojo 1 Verde 1 Azul 1
+cell 7 3 Rojo 1
+cell 8 3 Rojo 1
+cell 9 3 Rojo 1
+cell 10 3 Rojo 1
+cell 6 2 Rojo 1 Verde 1 Azul 1
+cell 7 2 Rojo 1 Verde 1
+cell 8 2 Rojo 2
+cell 9 2 Rojo 2
+cell 7 1 Rojo 1
+cell 8 1 Rojo 2 Verde 1
+cell 9 1 Rojo 1
 head 0 0

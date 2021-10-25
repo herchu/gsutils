@@ -1,3 +1,4 @@
+imgs/rgb.png
 imgs/impostor.jpg
 imgs/dragon.png
 imgs/pacman2.png
